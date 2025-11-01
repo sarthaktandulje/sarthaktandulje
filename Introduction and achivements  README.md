@@ -10,6 +10,6 @@
                               👉 Prompt Engineering
                               👉 SQL Intermidiate level
                               👉 Project Planning with AI 
-                              👉 Write with AI
+                              👉 Writing with AI
                               👉 Introduction to LLMs
                               👉 Python Devloper
